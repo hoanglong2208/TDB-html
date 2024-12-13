@@ -1,0 +1,29 @@
+#world {
+    color: rgb(255, 255, 255);
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+#carouselExampleControls {
+    width: 1024px;
+}
+
+.carousel-item>img {
+    height: 512px;
+}
+.img-card {
+    height: 238px;
+}
+.text-card{
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 2;
+    line-height: 1.2;
+    height: 40px;
+    overflow: hidden;
+}
+a{
+    text-decoration: none;
+}
+.w100{
+    width: 100%;
+}
